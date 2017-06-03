@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sungho Lee, prolific blog poster, Launches Site"
+title: "tekken frenzy"
 date: 2017-06-03
 ---
 
