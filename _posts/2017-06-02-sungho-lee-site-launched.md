@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sungho Lee, prolific blog posted, Launches Site"
+title: "Sungho Lee, prolific blog poster, Launches Site"
 date: 2017-06-02
 ---
 
